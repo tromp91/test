@@ -1,3 +1,3 @@
-FooCoin (FOO)
+TEST
 
-Blah, blah, blah.
+This is a simple test nigga
